@@ -70,6 +70,8 @@ The wall color, unique carpet pattern, and wall design look identical to the cha
 
 The first thing I did, of course, was find the original source. We don't need fancy Google dorking methods here; all I did was search `"Bellingcat Discord Server Creation"`. I scrolled for a little bit and found the original post.
 
+![Original Post](BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo2.png)
+
 The Twitter post was made on **May 12, 2020, at 2:12 PM**. To get the exact creation date of the Bellingcat Discord Server, I grabbed the Discord server's ID and pasted it into a Snowflake-to-Timestamp converter site.
 
 ![Snowflake Conversion](BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo6.png)
