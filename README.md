@@ -218,3 +218,6 @@ It took me quite a while to complete these challenges. I ran into plenty of dead
 This was my first OSINT write-up. There's still a lot to learn, and it's great to have an organization like Bellingcat, along with other free OSINT resources, that make it possible to practice these skills safely and publicly. 
 
 I'll definitely do this again. I want to keep improving my investigative skills and sharing my write-ups in the future.
+
+
+Love  Erwin
