@@ -130,7 +130,7 @@ Anyway, the initial dorks didn't work, so I simplified the tactic and tried this
 
 And I got results:
 
-![Successful Google Dork](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo3.png)
+![Successful Google Dork](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo3.png)
 
 As you can see in the screenshot, the closest match is the **Policy Plan 2019-2021**, dated **June 2020**.
 
@@ -141,20 +141,20 @@ After reading through to confirm if it was correct, I found this line in the tex
 
 I opened the document properties and found that the author is **Aric Toler**, and the creation date is **June 22, 2020**.
 
-![Document Properties](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo4.png)
+![Document Properties](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo4.png)
 
 I searched his name to confirm that he is an author at Bellingcat.
 
-![Author Verification](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo5.png)
+![Author Verification](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo5.png)
 
 Checking his articles, I found a piece published on **April 15, 2020**, which is the closest publication date to the document's creation date.
 
-![Closest Article Found](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo6.png)
+![Closest Article Found](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo6.png)
 
 From there, all I had to do was scroll down to the very end of the article and grab the final word.
 
-![Article End 1](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo7.png)
-![Article End 2](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo8.png)
+![Article End 1](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo7.png)
+![Article End 2](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo8.png)
 
 **Answer:** `record`
 
@@ -164,7 +164,7 @@ From there, all I had to do was scroll down to the very end of the article and g
 
 **Task:** Your task is to identify the type of hazard listed at the top of the table on page 39 within that document (answer format: `Word`).
 
-![Toolkit Tracing Challenge](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo1.png)
+![Toolkit Tracing Challenge](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo1.png)
 
 With this challenge, I immediately tried this search query:
 
@@ -172,20 +172,20 @@ With this challenge, I immediately tried this search query:
 
 This gave me two results:
 
-![Search Results](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo2.png)
+![Search Results](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo2.png)
 
 I clicked on the first PDF file and immediately scrolled to the **Guides & Handbooks** section of the document.
 
-![Guides and Handbooks Section](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo3.png)
+![Guides and Handbooks Section](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo3.png)
 
 While checking the contents of the table, only one entry contained a PDF file link.
 
-![Table Links](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo4.png)
+![Table Links](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo4.png)
 
 When checking the file link today, it's broken:
 `https://docs.unocha.org/sites/dms/Documents/FEAT_Version_1.1.pdf`
 
-![Broken Link Error](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo5.png)
+![Broken Link Error](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo5.png)
 
 But I was certain this was the file I needed because the challenge details stated: *"the “Guides & Handbooks” section included a link to a document that is no longer accessible, though it can still be found online."*
 
@@ -195,17 +195,17 @@ So, I searched for this archived file with the specific query:
 
 I included the organization name and exact filename hoping it hadn't changed.
 
-![Targeted Filename Search](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo6.png)
+![Targeted Filename Search](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo6.png)
 
 Turns out I was right! I found a downloadable PDF with the exact same filename.
 
-![Found PDF 1](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo7.png)
-![Found PDF 2](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo8.png)
+![Found PDF 1](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo7.png)
+![Found PDF 2](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo8.png)
 
 Now all I had to do was scroll to **page 39** and check the hazard listed at the top of the list.
 
-![Page 39 Table 1](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo9.png)
-![Page 39 Table 2](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo10.png)
+![Page 39 Table 1](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo9.png)
+![Page 39 Table 2](BACK_IN_TIME_PHOTOS/Toolkit-Tracing/TK-TC_photo10.png)
 
 **Answer:** `Explosive`
 
