@@ -50,7 +50,7 @@ In order to be sure, I searched it and found out that it's a meeting room name a
 ![Hotel Search 1](BACK_IN_TIME_PHOTOS/Training-Time/TT_photo5.png)
 ![Hotel Search 2](BACK_IN_TIME_PHOTOS/Training-Time/TT_photo6.png)
 
-This couldn't be it, this doens't look like the same room, and the wall is green. So, I tried finding other rooms in the hotel and finally found it. 
+This couldn't be it, the room doesn't match. The wall here is orange, while the challenge photo shows a green wall. So, I tried finding other rooms in the hotel and finally found it.
 
 The wall color, unique carpet pattern, and wall design look identical to the challenge photo. 
 
