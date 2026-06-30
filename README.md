@@ -66,15 +66,15 @@ The wall color, unique carpet pattern, and wall design look identical to the cha
 
 **Task:** Your task is to determine how many minutes passed between the server's creation and the official announcement on Twitter (answer format: `87`).
 
-![Creating Community Challenge](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo1.png)
+![Creating Community Challenge](BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo1.png)
 
 The first thing I did, of course, was find the original source. We don't need fancy Google dorking methods here; all I did was search `"Bellingcat Discord Server Creation"`. I scrolled for a little bit and found the original post.
 
-![Original Post Search](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo2.png)
+![Original Post Search](BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo2.png)
 
 The Twitter post was made on **May 12, 2020, at 2:12 PM**. To get the exact creation date of the Bellingcat Discord Server, I grabbed the Discord server's ID and pasted it into a Snowflake-to-Timestamp converter site.
 
-![Snowflake Conversion](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo6.png)
+![Snowflake Conversion](BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo6.png)
 
 The result (ISO 8601): `2020-05-12T13:04:34.178Z`
 
@@ -84,8 +84,8 @@ Now let's compare it to the Twitter date and calculate the duration:
 
 Site used for calculation: [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html)
 
-![Calculation Setup](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo7.png)
-![Calculation Result](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo8.png)
+![Calculation Setup](BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo7.png)
+![Calculation Result](BACK_IN_TIME_PHOTOS/Creating-Community/CC_photo8.png)
 
 **Answer:** `68`
 
@@ -95,11 +95,11 @@ Site used for calculation: [Time Duration Calculator](https://www.calculator.net
 
 **Goal:** Your task is to find the article they published closest to when the document was created, and provide its last word (answer format: `word`).
 
-![Future Plans Challenge](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo1.png)
+![Future Plans Challenge](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo1.png)
 
 To make the search easier, I searched for the registration date of Bellingcat in the Netherlands.
 
-![Bellingcat Registration Info](BackInTimeOSINT/BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo2.png)
+![Bellingcat Registration Info](BACK_IN_TIME_PHOTOS/Future-Plans/FP_photo2.png)
 
 * **Date:** July 11, 2018
 
