@@ -219,7 +219,9 @@ This was my first OSINT write-up. There's still a lot to learn, and it's great t
 
 I'll definitely do this again. I want to keep improving my investigative skills and sharing my write-ups in the future.
 
-
-
 Love,
 Erwin
+
+---
+
+Medium Version: https://medium.com/@zers26/bellingcats-back-in-time-open-source-challenge-my-write-up-4133e59cc5b0
