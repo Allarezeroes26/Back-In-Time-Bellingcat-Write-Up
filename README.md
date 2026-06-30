@@ -36,7 +36,7 @@ And paste it into the answer box.
 
 ![Training Time Room](BACK_IN_TIME_PHOTOS/Training-Time/TT_photo1.jpeg)
 
-For this one, I tried searching for workshops by Christiaan Triebert in Dec 2017.
+For this one, I searched for workshops by Christiaan Triebert in Dec 2017.
 
 ![Search Attempt 1](BACK_IN_TIME_PHOTOS/Training-Time/TT_photo2.png)
 ![Search Attempt 2](BACK_IN_TIME_PHOTOS/Training-Time/TT_photo3.png)
